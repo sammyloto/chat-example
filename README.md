@@ -1,2 +1,2 @@
 # chat-example
-Using socket.io to set up a simple project using web-sockets.
+Using socket.io to set up a simple Node project using web-sockets.
