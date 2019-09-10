@@ -1,0 +1,33 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "implementing websockets using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammyloto/chat-example.git"
+  },
+  "keywords": [
+    "sockets"
+  ],
+  "author": "Sammy Gacho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammyloto/chat-example/issues"
+  },
+  "homepage": "https://github.com/sammyloto/chat-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "s": "^1.0.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
